@@ -1,4 +1,4 @@
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=e5c43e&text=三%20龍&height=150&fontSize=60&desc=Seung%Pyo%20Hong&descAlignY=75&descAlign=60)
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=e5c43e&text=森%20龍&height=150&fontSize=60&desc=Seung%Pyo%20Hong&descAlignY=75&descAlign=60)
 
 ## hello 👋
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zackinthebox)](https://solved.ac/zackinthebox/) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sam-Ryong&layout=compact)  
